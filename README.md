@@ -1,6 +1,6 @@
 <img src="./.assets/christmas_ferris.png" width="164">
 
-# 🎄 Advent of Code {year}
+# 🎄 Advent of Code 2023
 
 Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/).
 
@@ -11,9 +11,9 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.
 
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---:  |
-| [Day 6](./src/bin/06.rs) | `304.0ns` | `-` |
+| [Day 6](./src/bin/06.rs) | `346.0ns` | `11.1ms` |
 
-**Total: 0.00ms**
+**Total: 11.10ms**
 <!--- benchmarking table --->
 
 ---
